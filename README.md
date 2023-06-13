@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sof-1814
+- 👀 I’m interested in stuff
+- 🌱 I’m currently learning html, css and js
+- 💞️ I’m looking to get help
+- 📫 How to reach me: sofiamontero.141998@gmail.com
